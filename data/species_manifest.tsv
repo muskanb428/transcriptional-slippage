@@ -1,0 +1,9 @@
+species	genome	gtf
+Arabidopsis_thaliana	/home/zero/muskan/slippage/fasta_gtf/Arabidopsis_thaliana/GCF_000001735.4_TAIR10.1_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Arabidopsis_thaliana/GCF_000001735.4_TAIR10.1_genomic.gtf
+Danio_rerio	/home/zero/muskan/slippage/fasta_gtf/Danio_rerio/Danio_rerio.GRCz11.dna_rm.primary_assembly.fa	/home/zero/muskan/slippage/fasta_gtf/Danio_rerio/Danio_rerio.GRCz11.115.gtf
+Gallus_gallus	/home/zero/muskan/slippage/fasta_gtf/Gallus_gallus/GCF_000002315.6_GRCg6a_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Gallus_gallus/GCF_000002315.6_GRCg6a_genomic.gtf
+Homo_sapiens	/home/zero/muskan/slippage/fasta_gtf/Homo_sapiens/Homo_sapiens.GRCh38.dna.primary_assembly.fa	/home/zero/muskan/slippage/fasta_gtf/Homo_sapiens/Homo_sapiens.GRCh38.115.gtf
+Octopus_bimaculoides	/home/zero/muskan/slippage/fasta_gtf/Octopus_bimaculoides/GCF_001194135.2_ASM119413v2_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Octopus_bimaculoides/GCF_001194135.2_ASM119413v2_genomic.gtf
+Plasmodium_falciparum	/home/zero/muskan/slippage/fasta_gtf/Plasmodium_falciparum/GCF_000002765.6_GCA_000002765_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Plasmodium_falciparum/GCF_000002765.6_GCA_000002765_genomic.gtf
+Saccharomyces_cerevisiae	/home/zero/muskan/slippage/fasta_gtf/Saccharomyces_cerevisiae/GCF_000146045.2_R64_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Saccharomyces_cerevisiae/GCF_000146045.2_R64_genomic.gtf
+Trypanosoma_brucei	/home/zero/muskan/slippage/fasta_gtf/Trypanosoma_brucei/GCF_000002445.2_ASM244v1_genomic.fna	/home/zero/muskan/slippage/fasta_gtf/Trypanosoma_brucei/GCF_000002445.2_ASM244v1_genomic.gtf
