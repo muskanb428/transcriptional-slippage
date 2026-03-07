@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Aspergillus_nidulans	9	347	1	6.516000	0.002882	0.018778	-2.703986

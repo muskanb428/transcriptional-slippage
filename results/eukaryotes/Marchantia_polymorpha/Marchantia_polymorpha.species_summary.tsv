@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Marchantia_polymorpha	9	1403	0	25.356000	0.000000	0.018073	-24.107309

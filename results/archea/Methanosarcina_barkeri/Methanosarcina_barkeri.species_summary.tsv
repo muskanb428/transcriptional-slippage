@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Methanosarcina_barkeri	9	17	0	0.122000	0.000000	0.007176	-22.774843

@@ -1,0 +1,10 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Archaeoglobus_fulgidus	A	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	E	5	7.400000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	G	2	9.000000	0	0.144000	0.000000	0.072000	-26.101494
+Archaeoglobus_fulgidus	K	1	6.000000	0	0.120000	0.000000	0.120000	-26.838459
+Archaeoglobus_fulgidus	L	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	R	2	7.500000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	S	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	T	2	8.500000	0	0.000000	0.000000	0.000000	0.000000
+Archaeoglobus_fulgidus	V	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

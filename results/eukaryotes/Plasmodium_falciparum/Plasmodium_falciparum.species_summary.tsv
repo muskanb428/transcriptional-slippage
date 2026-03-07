@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Plasmodium_falciparum	9	4592	563	575.194000	0.122605	0.125260	-0.030914

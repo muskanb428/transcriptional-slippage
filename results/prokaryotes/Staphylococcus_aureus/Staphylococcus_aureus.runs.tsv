@@ -1,0 +1,5 @@
+species	transcript_id	gene_id	chrom	strand	protein_len	aa	aa_start	aa_end	aa_len	codon_entropy	codon_gini_simpson	n_unique_codons	dna_len	obs_max_nt_homopolymer	obs_risky	random_expected_max_nt_homopolymer	p_random_risky	p_random_safe	random_expected_risky_count	dna_A_frac	dna_T_frac	dna_G_frac	dna_C_frac
+Staphylococcus_aureus	gene-SAOUHSC_00695	NA	NC_007795.1	+	308	H	212	218	6	0.650022	0.277778	2	18	2	0	1.712000	0.000000	1.000000	0.000000	0.333333	0.277778	0.000000	0.388889
+Staphylococcus_aureus	gene-SAOUHSC_01447	NA	NC_007795.1	-	9535	K	9523	9529	6	1.000000	0.500000	2	18	5	0	13.152000	0.828000	0.172000	0.828000	0.833333	0.000000	0.166667	0.000000
+Staphylococcus_aureus	gene-SAOUHSC_01501	NA	NC_007795.1	-	486	Q	425	431	6	0.650022	0.277778	2	18	2	0	2.000000	0.000000	1.000000	0.000000	0.611111	0.000000	0.055556	0.333333
+Staphylococcus_aureus	gene-SAOUHSC_02576	NA	NC_007795.1	+	166	T	43	54	11	1.572624	0.661157	3	33	2	0	2.000000	0.000000	1.000000	0.000000	0.454545	0.121212	0.090909	0.333333

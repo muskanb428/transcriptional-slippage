@@ -1,0 +1,9 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Bacillus_subtilis	A	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Bacillus_subtilis	D	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Bacillus_subtilis	E	1	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Bacillus_subtilis	G	2	6.000000	0	0.038000	0.000000	0.019000	-24.179496
+Bacillus_subtilis	H	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Bacillus_subtilis	K	1	6.000000	0	0.630000	0.000000	0.630000	-29.230777
+Bacillus_subtilis	L	2	6.500000	0	0.000000	0.000000	0.000000	0.000000
+Bacillus_subtilis	S	11	7.272727	0	0.000000	0.000000	0.000000	0.000000

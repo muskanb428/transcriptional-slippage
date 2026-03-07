@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Mycobacterium_tuberculosis	9	61	0	1.410000	0.000000	0.023115	-24.462311

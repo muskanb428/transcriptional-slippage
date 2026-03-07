@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Trypanosoma_brucei	9	676	14	14.236000	0.020710	0.021059	-0.024117

@@ -1,0 +1,8 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Methanococcus_jannaschii	E	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanococcus_jannaschii	G	2	6.000000	0	0.018000	0.000000	0.009000	-23.101494
+Methanococcus_jannaschii	H	1	9.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanococcus_jannaschii	K	2	6.500000	0	1.364000	0.000000	0.682000	-29.345197
+Methanococcus_jannaschii	L	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanococcus_jannaschii	R	1	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanococcus_jannaschii	S	1	7.000000	0	0.000000	0.000000	0.000000	0.000000

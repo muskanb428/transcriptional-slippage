@@ -1,0 +1,5 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Staphylococcus_aureus	H	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Staphylococcus_aureus	K	1	6.000000	0	0.828000	0.000000	0.828000	-29.625056
+Staphylococcus_aureus	Q	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Staphylococcus_aureus	T	1	11.000000	0	0.000000	0.000000	0.000000	0.000000

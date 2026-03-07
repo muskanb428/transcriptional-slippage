@@ -1,0 +1,12 @@
+species	transcript_id	gene_id	chrom	strand	protein_len	aa	aa_start	aa_end	aa_len	codon_entropy	codon_gini_simpson	n_unique_codons	dna_len	obs_max_nt_homopolymer	obs_risky	random_expected_max_nt_homopolymer	p_random_risky	p_random_safe	random_expected_risky_count	dna_A_frac	dna_T_frac	dna_G_frac	dna_C_frac
+Human_adenovirus	unassigned_transcript_4	unassigned_gene_4	MK357714.1	+	181	Q	148	157	9	0.000000	0.000000	1	27	1	0	1.958000	0.000000	1.000000	0.000000	0.333333	0.000000	0.333333	0.333333
+Human_adenovirus	unassigned_transcript_5	unassigned_gene_5	MK357714.1	+	501	A	46	55	9	0.000000	0.000000	1	27	1	0	2.000000	0.000000	1.000000	0.000000	0.333333	0.000000	0.333333	0.333333
+Human_adenovirus	unassigned_transcript_13	unassigned_gene_13	MK357714.1	-	672	R	380	386	6	1.000000	0.500000	2	18	2	0	1.992000	0.000000	1.000000	0.000000	0.000000	0.166667	0.333333	0.500000
+Human_adenovirus	unassigned_transcript_13	unassigned_gene_13	MK357714.1	-	672	P	387	394	7	1.950212	0.734694	4	21	5	0	7.010000	0.192000	0.808000	0.192000	0.095238	0.047619	0.095238	0.761905
+Human_adenovirus	unassigned_transcript_14	unassigned_gene_14	MK357714.1	+	169	G	36	43	7	1.842371	0.693878	4	21	6	0	5.210000	0.042000	0.958000	0.042000	0.047619	0.047619	0.809524	0.095238
+Human_adenovirus	unassigned_transcript_14	unassigned_gene_14	MK357714.1	+	169	R	44	50	6	1.459148	0.611111	3	18	2	0	1.992000	0.000000	1.000000	0.000000	0.111111	0.000000	0.500000	0.388889
+Human_adenovirus	unassigned_transcript_15	unassigned_gene_15	MK357714.1	+	137	G	13	19	6	1.459148	0.611111	3	18	2	0	4.886000	0.030000	0.970000	0.030000	0.055556	0.111111	0.666667	0.166667
+Human_adenovirus	unassigned_transcript_20	unassigned_gene_20	MK357714.1	+	198	A	157	165	8	1.500000	0.625000	3	24	2	0	2.000000	0.000000	1.000000	0.000000	0.083333	0.000000	0.416667	0.500000
+Human_adenovirus	unassigned_transcript_21	unassigned_gene_21	MK357714.1	+	368	A	252	258	6	1.459148	0.611111	3	18	2	0	1.996000	0.000000	1.000000	0.000000	0.000000	0.055556	0.500000	0.444444
+Human_adenovirus	unassigned_transcript_21	unassigned_gene_21	MK357714.1	+	368	R	329	336	7	0.863121	0.408163	2	21	2	0	2.000000	0.000000	1.000000	0.000000	0.000000	0.095238	0.333333	0.571429
+Human_adenovirus	unassigned_transcript_27	unassigned_gene_27	MK357714.1	+	807	A	717	723	6	1.459148	0.611111	3	18	2	0	1.998000	0.000000	1.000000	0.000000	0.055556	0.111111	0.333333	0.500000

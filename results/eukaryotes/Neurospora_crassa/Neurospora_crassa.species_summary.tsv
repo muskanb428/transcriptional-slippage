@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Neurospora_crassa	9	2265	2	39.476000	0.000883	0.017429	-4.302902

@@ -1,0 +1,8 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Sulfolobus_acidocaldarius	E	1	8.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_acidocaldarius	G	2	6.000000	0	0.018000	0.000000	0.009000	-23.101494
+Sulfolobus_acidocaldarius	H	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_acidocaldarius	L	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_acidocaldarius	P	1	6.000000	0	0.024000	0.000000	0.024000	-24.516531
+Sulfolobus_acidocaldarius	S	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_acidocaldarius	T	2	6.000000	0	0.000000	0.000000	0.000000	0.000000

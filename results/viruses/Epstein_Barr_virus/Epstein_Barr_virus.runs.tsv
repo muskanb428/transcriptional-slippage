@@ -1,0 +1,6 @@
+species	transcript_id	gene_id	chrom	strand	protein_len	aa	aa_start	aa_end	aa_len	codon_entropy	codon_gini_simpson	n_unique_codons	dna_len	obs_max_nt_homopolymer	obs_risky	random_expected_max_nt_homopolymer	p_random_risky	p_random_safe	random_expected_risky_count	dna_A_frac	dna_T_frac	dna_G_frac	dna_C_frac
+Epstein_Barr_virus	unassigned_transcript_7	HHV4_EBNA-3B/EBNA-3C	NC_007605.1	+	992	R	73	80	7	1.950212	0.734694	4	21	2	0	2.000000	0.000000	1.000000	0.000000	0.333333	0.000000	0.523810	0.142857
+Epstein_Barr_virus	unassigned_transcript_9	HHV4_EBNA-2	NC_007605.1	+	487	P	62	88	26	1.195118	0.494083	3	78	8	0	12.024000	0.698000	0.302000	0.698000	0.217949	0.025641	0.000000	0.756410
+Epstein_Barr_virus	unassigned_transcript_9	HHV4_EBNA-2	NC_007605.1	+	487	P	89	100	11	1.617190	0.611570	4	33	5	0	9.044000	0.364000	0.636000	0.364000	0.181818	0.030303	0.030303	0.757576
+Epstein_Barr_virus	unassigned_transcript_32	HHV4_BPLF1	NC_007605.1	-	3149	A	1474	1481	7	1.448816	0.612245	3	21	2	0	2.000000	0.000000	1.000000	0.000000	0.142857	0.000000	0.476190	0.380952
+Epstein_Barr_virus	unassigned_transcript_48	HHV4_BRLF1	NC_007605.1	-	605	S	326	332	6	1.459148	0.611111	3	18	2	0	1.978000	0.000000	1.000000	0.000000	0.277778	0.166667	0.277778	0.277778

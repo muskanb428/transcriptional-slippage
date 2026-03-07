@@ -1,0 +1,6 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Pyrococcus_furiosus	E	6	6.500000	0	0.000000	0.000000	0.000000	0.000000
+Pyrococcus_furiosus	G	1	6.000000	0	0.018000	0.000000	0.018000	-24.101494
+Pyrococcus_furiosus	K	1	7.000000	0	0.302000	0.000000	0.302000	-28.169973
+Pyrococcus_furiosus	L	3	6.333333	0	0.000000	0.000000	0.000000	0.000000
+Pyrococcus_furiosus	T	2	9.500000	0	0.000000	0.000000	0.000000	0.000000

@@ -1,0 +1,4 @@
+species	transcript_id	gene_id	chrom	strand	protein_len	aa	aa_start	aa_end	aa_len	codon_entropy	codon_gini_simpson	n_unique_codons	dna_len	obs_max_nt_homopolymer	obs_risky	random_expected_max_nt_homopolymer	p_random_risky	p_random_safe	random_expected_risky_count	dna_A_frac	dna_T_frac	dna_G_frac	dna_C_frac
+Nitrosopumilus_maritimus	gene-NMAR_RS05750	NA	NC_010085.1	-	9645	D	819	825	6	0.650022	0.277778	2	18	1	0	1.000000	0.000000	1.000000	0.000000	0.333333	0.277778	0.333333	0.055556
+Nitrosopumilus_maritimus	gene-NMAR_RS05750	NA	NC_010085.1	-	9645	D	1106	1112	6	0.650022	0.277778	2	18	1	0	1.000000	0.000000	1.000000	0.000000	0.333333	0.277778	0.333333	0.055556
+Nitrosopumilus_maritimus	gene-NMAR_RS05750	NA	NC_010085.1	-	9645	D	6474	6487	13	0.995727	0.497041	2	39	1	0	1.000000	0.000000	1.000000	0.000000	0.333333	0.179487	0.333333	0.153846

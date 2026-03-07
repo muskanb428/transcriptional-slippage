@@ -1,0 +1,5 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Sulfolobus_solfataricus	E	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_solfataricus	I	2	6.500000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_solfataricus	L	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Sulfolobus_solfataricus	T	1	7.000000	0	0.000000	0.000000	0.000000	0.000000

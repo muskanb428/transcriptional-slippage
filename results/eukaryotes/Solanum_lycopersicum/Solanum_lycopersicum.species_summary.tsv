@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Solanum_lycopersicum	9	2743	10	50.568000	0.003646	0.018435	-2.338224

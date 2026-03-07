@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Saccharomyces_cerevisiae	9	576	3	10.974000	0.005208	0.019052	-1.871055

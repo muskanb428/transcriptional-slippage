@@ -1,0 +1,14 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Cryptococcus_neoformans	A	38	7.078947	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	D	21	6.476190	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	E	73	7.424658	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	G	63	7.111111	0	1.798000	0.000000	0.028540	-24.766466
+Cryptococcus_neoformans	H	6	7.666667	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	K	21	6.857143	0	5.072000	0.000000	0.241524	-27.847590
+Cryptococcus_neoformans	L	3	6.666667	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	N	3	6.666667	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	P	62	6.612903	0	3.926000	0.000000	0.063323	-25.916217
+Cryptococcus_neoformans	Q	39	8.948718	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	R	5	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	S	95	7.494737	0	0.000000	0.000000	0.000000	0.000000
+Cryptococcus_neoformans	T	12	6.916667	0	0.000000	0.000000	0.000000	0.000000

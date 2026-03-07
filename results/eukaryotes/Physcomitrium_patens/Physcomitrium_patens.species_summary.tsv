@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Physcomitrium_patens	9	2115	15	52.408000	0.007092	0.024779	-1.804824

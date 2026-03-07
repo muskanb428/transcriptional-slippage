@@ -1,0 +1,4 @@
+species	transcript_id	gene_id	chrom	strand	protein_len	aa	aa_start	aa_end	aa_len	codon_entropy	codon_gini_simpson	n_unique_codons	dna_len	obs_max_nt_homopolymer	obs_risky	random_expected_max_nt_homopolymer	p_random_risky	p_random_safe	random_expected_risky_count	dna_A_frac	dna_T_frac	dna_G_frac	dna_C_frac
+Torque_teno_virus	unassigned_transcript_1	QKL08_gp1	NC_076138.1	+	154	G	115	121	6	1.000000	0.500000	2	18	2	0	4.354000	0.012000	0.988000	0.012000	0.166667	0.166667	0.666667	0.000000
+Torque_teno_virus	unassigned_transcript_2	QKL08_gp2	NC_076138.1	+	734	R	13	19	6	1.459148	0.611111	3	18	2	0	1.982000	0.000000	1.000000	0.000000	0.222222	0.000000	0.444444	0.333333
+Torque_teno_virus	unassigned_transcript_2	QKL08_gp2	NC_076138.1	+	734	R	35	41	6	1.918296	0.722222	4	18	2	0	1.988000	0.000000	1.000000	0.000000	0.277778	0.055556	0.333333	0.333333

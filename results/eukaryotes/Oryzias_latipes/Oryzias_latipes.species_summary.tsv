@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Oryzias_latipes	9	8418	31	263.086000	0.003683	0.031253	-3.085194

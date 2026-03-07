@@ -1,0 +1,7 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Streptococcus_pneumoniae	A	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Streptococcus_pneumoniae	E	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Streptococcus_pneumoniae	G	1	6.000000	0	0.004000	0.000000	0.004000	-21.931569
+Streptococcus_pneumoniae	K	2	6.000000	0	1.102000	0.000000	0.551000	-29.037477
+Streptococcus_pneumoniae	L	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Streptococcus_pneumoniae	S	7	7.000000	0	0.000000	0.000000	0.000000	0.000000

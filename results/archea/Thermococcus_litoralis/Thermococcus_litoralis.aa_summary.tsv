@@ -1,0 +1,6 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Thermococcus_litoralis	E	6	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Thermococcus_litoralis	G	5	6.000000	0	0.174000	0.000000	0.034800	-25.052584
+Thermococcus_litoralis	K	1	6.000000	0	0.342000	0.000000	0.342000	-28.349421
+Thermococcus_litoralis	L	4	6.250000	0	0.000000	0.000000	0.000000	0.000000
+Thermococcus_litoralis	T	2	6.000000	0	0.000000	0.000000	0.000000	0.000000

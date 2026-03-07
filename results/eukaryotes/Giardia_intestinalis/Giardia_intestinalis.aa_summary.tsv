@@ -1,0 +1,12 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Giardia_intestinalis	A	6	6.500000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	D	3	8.666667	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	E	5	8.200000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	G	1	6.000000	0	0.048000	0.000000	0.048000	-25.516531
+Giardia_intestinalis	L	8	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	N	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	P	6	6.833333	0	0.392000	0.000000	0.065333	-25.961316
+Giardia_intestinalis	Q	18	8.000000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	R	2	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	S	15	9.266667	0	0.000000	0.000000	0.000000	0.000000
+Giardia_intestinalis	T	3	7.000000	0	0.000000	0.000000	0.000000	0.000000

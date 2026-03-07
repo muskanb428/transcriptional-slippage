@@ -1,0 +1,7 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Thermoplasma_acidophilum	A	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Thermoplasma_acidophilum	G	1	6.000000	0	0.014000	0.000000	0.014000	-23.738924
+Thermoplasma_acidophilum	I	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Thermoplasma_acidophilum	P	1	12.000000	0	0.022000	0.000000	0.022000	-24.391000
+Thermoplasma_acidophilum	S	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Thermoplasma_acidophilum	V	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

@@ -1,0 +1,7 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Halobacterium_salinarum	A	8	6.375000	0	0.000000	0.000000	0.000000	0.000000
+Halobacterium_salinarum	D	3	6.666667	0	0.000000	0.000000	0.000000	0.000000
+Halobacterium_salinarum	G	13	6.846154	0	0.950000	0.000000	0.073077	-26.122913
+Halobacterium_salinarum	S	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halobacterium_salinarum	T	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halobacterium_salinarum	V	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

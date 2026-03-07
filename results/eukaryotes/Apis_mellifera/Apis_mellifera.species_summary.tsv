@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Apis_mellifera	9	4797	15	82.800000	0.003127	0.017261	-2.464668

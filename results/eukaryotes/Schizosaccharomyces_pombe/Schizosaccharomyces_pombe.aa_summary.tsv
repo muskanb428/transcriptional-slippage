@@ -1,0 +1,14 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Schizosaccharomyces_pombe	A	14	7.142857	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	D	7	6.285714	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	E	23	6.565217	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	F	2	8.000000	2	1.522000	1.000000	0.761000	0.394032
+Schizosaccharomyces_pombe	H	3	8.666667	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	K	13	6.769231	1	7.456000	0.076923	0.573538	-2.898402
+Schizosaccharomyces_pombe	L	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	N	3	7.666667	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	P	16	7.187500	0	0.368000	0.000000	0.023000	-24.455131
+Schizosaccharomyces_pombe	Q	11	9.818182	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	R	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	S	78	7.666667	0	0.000000	0.000000	0.000000	0.000000
+Schizosaccharomyces_pombe	T	3	6.666667	0	0.000000	0.000000	0.000000	0.000000

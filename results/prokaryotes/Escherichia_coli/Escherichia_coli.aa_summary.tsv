@@ -1,0 +1,9 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Escherichia_coli	A	5	6.200000	0	0.000000	0.000000	0.000000	0.000000
+Escherichia_coli	G	2	6.500000	0	0.026000	0.000000	0.013000	-23.632008
+Escherichia_coli	H	1	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Escherichia_coli	L	4	6.500000	0	0.000000	0.000000	0.000000	0.000000
+Escherichia_coli	P	1	8.000000	0	0.008000	0.000000	0.008000	-22.931569
+Escherichia_coli	R	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Escherichia_coli	S	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Escherichia_coli	T	3	6.333333	0	0.000000	0.000000	0.000000	0.000000

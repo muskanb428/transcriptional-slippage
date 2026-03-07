@@ -1,0 +1,6 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Methanosarcina_barkeri	E	4	11.250000	0	0.000000	0.000000	0.000000	0.000000
+Methanosarcina_barkeri	G	6	6.166667	0	0.122000	0.000000	0.020333	-24.277343
+Methanosarcina_barkeri	L	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanosarcina_barkeri	N	2	9.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanosarcina_barkeri	S	2	9.000000	0	0.000000	0.000000	0.000000	0.000000

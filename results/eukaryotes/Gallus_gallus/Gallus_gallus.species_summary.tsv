@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Gallus_gallus	9	4882	79	189.226000	0.016182	0.038760	-1.260186

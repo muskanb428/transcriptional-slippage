@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Arabidopsis_thaliana	9	3892	13	84.234000	0.003340	0.021643	-2.695891

@@ -1,0 +1,8 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Salmonella_enterica	A	10	6.200000	0	0.000000	0.000000	0.000000	0.000000
+Salmonella_enterica	G	3	7.333333	0	0.064000	0.000000	0.021333	-24.346606
+Salmonella_enterica	L	3	6.333333	0	0.000000	0.000000	0.000000	0.000000
+Salmonella_enterica	P	2	6.500000	0	0.032000	0.000000	0.016000	-23.931569
+Salmonella_enterica	Q	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Salmonella_enterica	R	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Salmonella_enterica	T	2	6.500000	0	0.000000	0.000000	0.000000	0.000000

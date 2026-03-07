@@ -1,0 +1,8 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Halococcus_morrhuae	A	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halococcus_morrhuae	D	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halococcus_morrhuae	G	15	7.533333	0	0.678000	0.000000	0.045200	-25.429819
+Halococcus_morrhuae	L	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halococcus_morrhuae	M	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halococcus_morrhuae	T	1	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Halococcus_morrhuae	V	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

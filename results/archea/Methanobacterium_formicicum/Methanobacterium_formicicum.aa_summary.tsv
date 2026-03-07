@@ -1,0 +1,7 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Methanobacterium_formicicum	A	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanobacterium_formicicum	E	1	10.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanobacterium_formicicum	G	3	6.000000	0	0.032000	0.000000	0.010667	-23.346606
+Methanobacterium_formicicum	S	4	8.750000	0	0.000000	0.000000	0.000000	0.000000
+Methanobacterium_formicicum	T	2	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanobacterium_formicicum	V	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

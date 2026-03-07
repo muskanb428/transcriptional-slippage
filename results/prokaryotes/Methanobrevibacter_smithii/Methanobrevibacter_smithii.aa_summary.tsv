@@ -1,0 +1,6 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Methanobrevibacter_smithii	E	4	8.750000	0	0.000000	0.000000	0.000000	0.000000
+Methanobrevibacter_smithii	G	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanobrevibacter_smithii	H	1	8.000000	0	0.000000	0.000000	0.000000	0.000000
+Methanobrevibacter_smithii	S	3	6.666667	0	0.000000	0.000000	0.000000	0.000000
+Methanobrevibacter_smithii	V	1	7.000000	0	0.000000	0.000000	0.000000	0.000000

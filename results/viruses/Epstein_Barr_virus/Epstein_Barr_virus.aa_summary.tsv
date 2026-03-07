@@ -1,0 +1,5 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Epstein_Barr_virus	A	1	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Epstein_Barr_virus	P	2	18.500000	0	1.062000	0.000000	0.531000	-28.984137
+Epstein_Barr_virus	R	1	7.000000	0	0.000000	0.000000	0.000000	0.000000
+Epstein_Barr_virus	S	1	6.000000	0	0.000000	0.000000	0.000000	0.000000

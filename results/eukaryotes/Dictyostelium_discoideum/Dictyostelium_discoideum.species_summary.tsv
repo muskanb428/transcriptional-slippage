@@ -1,0 +1,2 @@
+species	risk_threshold	n_runs	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Dictyostelium_discoideum	9	16216	110	122.308000	0.006783	0.007542	-0.153015

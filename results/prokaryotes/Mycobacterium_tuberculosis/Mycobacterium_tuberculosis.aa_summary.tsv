@@ -1,0 +1,9 @@
+species	aa	n_runs	mean_run_len	obs_risky_count	exp_risky_count	obs_risky_frac	exp_risky_frac	log2_enrichment_obs_over_exp
+Mycobacterium_tuberculosis	A	33	6.303030	0	0.000000	0.000000	0.000000	0.000000
+Mycobacterium_tuberculosis	F	1	6.000000	0	0.028000	0.000000	0.028000	-24.738924
+Mycobacterium_tuberculosis	G	5	6.200000	0	0.104000	0.000000	0.020800	-24.310080
+Mycobacterium_tuberculosis	P	13	6.846154	0	1.278000	0.000000	0.098308	-26.550801
+Mycobacterium_tuberculosis	Q	1	9.000000	0	0.000000	0.000000	0.000000	0.000000
+Mycobacterium_tuberculosis	R	3	8.333333	0	0.000000	0.000000	0.000000	0.000000
+Mycobacterium_tuberculosis	T	2	6.000000	0	0.000000	0.000000	0.000000	0.000000
+Mycobacterium_tuberculosis	V	3	6.000000	0	0.000000	0.000000	0.000000	0.000000
